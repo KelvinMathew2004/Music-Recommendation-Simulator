@@ -76,13 +76,13 @@ pytest
 *(Note: Replace these placeholders with your actual screenshots as instructed at the bottom!)*
 
 **High-Energy Pop Profile Results**
-`![High Energy Pop](screenshots/screenshot1.png)`
+![High Energy Pop](screenshots/screenshot1.png)
 
 **Chill Lofi Profile Results**
-`![Chill Lofi](screenshots/screenshot2.png)`
+![Chill Lofi](screenshots/screenshot2.png)
 
 **Deep Intense Rock Profile Results**
-`![Intense Rock](screenshots/screenshot3.png)`
+![Intense Rock](screenshots/screenshot3.png)
 
 ## Experiments You Tried
 
