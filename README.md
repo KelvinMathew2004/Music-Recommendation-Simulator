@@ -98,7 +98,7 @@ pytest
 ## Reflection
 
 Read and complete `model_card.md`:
-[**Model Card**](https://www.google.com/search?q=model_card.md)
+[**Model Card**](https://github.com/KelvinMathew2004/Music-Recommendation-Simulator/blob/main/model_card.md)
 
 Building this project taught me that AI recommendation systems are essentially just complex sorting algorithms driven by weighted math. It was surprising to see how quickly a simple set of math rules (+2.0 here, +1.0 there) could make the output feel genuinely "personalized" and smart.
 
